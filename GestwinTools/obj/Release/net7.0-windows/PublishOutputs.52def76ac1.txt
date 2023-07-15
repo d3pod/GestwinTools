@@ -1,0 +1,7 @@
+C:\Users\ESCRITORIO-D\Desktop\GestwinTools.exe
+C:\Users\ESCRITORIO-D\Desktop\GestwinTools.dll
+C:\Users\ESCRITORIO-D\Desktop\GestwinTools.deps.json
+C:\Users\ESCRITORIO-D\Desktop\GestwinTools.runtimeconfig.json
+C:\Users\ESCRITORIO-D\Desktop\GestwinTools.pdb
+C:\Users\ESCRITORIO-D\Desktop\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ESCRITORIO-D\Desktop\Npgsql.dll

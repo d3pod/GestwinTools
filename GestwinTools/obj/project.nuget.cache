@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hQnSFSsuVNKLiuaNlYmNWvFzxAx+YZxrc8ZfrgFDotks+jXeRm/pvNiFEk2xrmvX2/fK1xolot73O76fuDKg1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ESCRITORIO-D\\GitHub\\GestwinTools\\GestwinTools\\GestwinTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ESCRITORIO-D\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ESCRITORIO-D\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
