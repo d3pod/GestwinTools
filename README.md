@@ -8,7 +8,7 @@ Abra o ficheiro Settings.txt e coloque as informações do seu Postgre.
 Nota: Não colocar espaços após o "=" (simbolo igual)
 
 ### Exemplo do ficheiro
-ip=localhost
-database=database_name
-password=yourpassowrd
+ip=localhost </br>
+database=database_name</br>
+password=yourpassowrd</br>
 port=5432
